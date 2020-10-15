@@ -1,14 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author sebas
- */
-public class ejercicio10 {
+public class Ejercicio10 {
 
     public static void main(String ar[]) {
         var usuario = "Juan";
@@ -16,10 +6,10 @@ public class ejercicio10 {
 
         var union = titulo + " " + usuario;
         System.out.println("usuario = " + union);
-        
+
         var i = 3;
         var j = 4;
-        
+
         System.out.println(usuario + i + j);
     }
 }

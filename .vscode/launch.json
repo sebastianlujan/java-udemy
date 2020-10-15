@@ -1,0 +1,126 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - TestCaja",
+      "request": "launch",
+      "mainClass": "box.TestCaja",
+      "projectName": "java-udemy_f8bd1471"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - TestCaja",
+      "request": "launch",
+      "mainClass": "TestCaja",
+      "projectName": "java-udemy_f8bd1471"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Ejemplo21Test",
+      "request": "launch",
+      "mainClass": "Ejemplo21Test",
+      "projectName": "java-udemy_f8bd1471"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Ejemplo20",
+      "request": "launch",
+      "mainClass": "Ejemplo20",
+      "projectName": "java-udemy_f8bd1471"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Ejercicio19",
+      "request": "launch",
+      "mainClass": "Ejercicio19",
+      "projectName": "java-udemy_f8bd1471"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Ejercicio18",
+      "request": "launch",
+      "mainClass": "Ejercicio18",
+      "projectName": "java-udemy_f8bd1471"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Ejercicio10",
+      "request": "launch",
+      "mainClass": "Ejercicio10",
+      "projectName": "java-udemy_f8bd1471"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Ejercicio16",
+      "request": "launch",
+      "mainClass": "Ejercicio16",
+      "projectName": "java-udemy_f8bd1471"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Ejercicio13",
+      "request": "launch",
+      "mainClass": "Ejercicio13",
+      "projectName": "java-udemy_f8bd1471"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Ejercicio11",
+      "request": "launch",
+      "mainClass": "Ejercicio11",
+      "projectName": "java-udemy_f8bd1471"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Ejercicio12",
+      "request": "launch",
+      "mainClass": "Ejercicio12",
+      "projectName": "java-udemy_f8bd1471"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-HolaMundo<java-udemy_f8bd1471>",
+      "request": "launch",
+      "mainClass": "HolaMundo",
+      "projectName": "java-udemy_f8bd1471"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ejercicio10<java-udemy_f8bd1471>",
+      "request": "launch",
+      "mainClass": "ejercicio10",
+      "projectName": "java-udemy_f8bd1471"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ejercicio11<java-udemy_f8bd1471>",
+      "request": "launch",
+      "mainClass": "ejercicio11",
+      "projectName": "java-udemy_f8bd1471"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ejercicio11<java-udemy_f8bd1471>(1)",
+      "request": "launch",
+      "mainClass": "ejercicio11.ejercicio11",
+      "projectName": "java-udemy_f8bd1471"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ejercicio12<java-udemy_f8bd1471>",
+      "request": "launch",
+      "mainClass": "ejercicio12",
+      "projectName": "java-udemy_f8bd1471"
+    }
+  ]
+}

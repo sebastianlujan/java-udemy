@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9aa57335-b9dc-4666-adde-2abcb13611f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/Aritmetica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/build/built-jar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/build/classes/operaciones/Aritmetica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/build/classes/operaciones/TestAritmetica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/build/classes/operaciones/TestAritmetica2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/dist/Aritmetica.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/dist/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/nbproject/private/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/src/operaciones/Aritmetica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/src/operaciones/TestAritmetica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aritmetica/src/operaciones/TestAritmetica2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Aritmetica.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Aritmetica2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HolaMundoJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/buffers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/build/classes/buffers/Buffers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/src/buffers/Buffers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/HolaMundo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/HolaMundo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ejercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ejercicio10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ejercicio11.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ejercicio11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HolaMundo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio11/ejercicio11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/snipplets.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ilxz6nopMiKVWAUs7Ah22I0CTC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Buffers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="buffers.Buffers" />
+      <module name="buffers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="buffers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Buffers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9aa57335-b9dc-4666-adde-2abcb13611f5" name="Default Changelist" comment="" />
+      <created>1602496239115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602496239115</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1843" y="172" key="#xdebugger.evaluate" timestamp="1602496942000">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state x="1843" y="172" key="#xdebugger.evaluate/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602496942000" />
+    <state width="1556" height="286" key="GridCell.Tab.0.bottom" timestamp="1602497060014">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="286" key="GridCell.Tab.0.bottom/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602497060014" />
+    <state width="1556" height="286" key="GridCell.Tab.0.center" timestamp="1602497060013">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="286" key="GridCell.Tab.0.center/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602497060013" />
+    <state width="1556" height="286" key="GridCell.Tab.0.left" timestamp="1602497060012">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="286" key="GridCell.Tab.0.left/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602497060012" />
+    <state width="1556" height="286" key="GridCell.Tab.0.right" timestamp="1602497060013">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="286" key="GridCell.Tab.0.right/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602497060013" />
+    <state width="1556" height="286" key="GridCell.Tab.1.bottom" timestamp="1602497060016">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="286" key="GridCell.Tab.1.bottom/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602497060016" />
+    <state width="1556" height="286" key="GridCell.Tab.1.center" timestamp="1602497060015">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="286" key="GridCell.Tab.1.center/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602497060015" />
+    <state width="1556" height="286" key="GridCell.Tab.1.left" timestamp="1602497060014">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="286" key="GridCell.Tab.1.left/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602497060014" />
+    <state width="1556" height="286" key="GridCell.Tab.1.right" timestamp="1602497060015">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="286" key="GridCell.Tab.1.right/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602497060015" />
+    <state x="1727" y="168" width="709" height="587" key="NewModule_or_Project.wizard" timestamp="1602496645904">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state x="1727" y="168" width="709" height="587" key="NewModule_or_Project.wizard/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602496645904" />
+    <state x="1568" y="43" key="SettingsEditor" timestamp="1602496954947">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state x="1568" y="43" key="SettingsEditor/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602496954947" />
+    <state x="1720" y="84" key="new project wizard" timestamp="1602496596127">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state x="1720" y="84" key="new project wizard/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602496596127" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../buffers/src/buffers/Buffers.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

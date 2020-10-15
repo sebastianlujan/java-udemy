@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19f0d298-b4ae-46c9-b25f-fa64a0a54c69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Aritmetica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/built-jar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/operaciones/Aritmetica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/operaciones/TestAritmetica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/operaciones/TestAritmetica2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/operaciones/TestAritmetica3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/Aritmetica.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operaciones/Aritmetica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operaciones/TestAritmetica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operaciones/TestAritmetica2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operaciones/TestAritmetica3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HolaMundoJava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HolaMundoJava/.idea/libraries/Aritmetica.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HolaMundoJava/.idea/libraries/Aritmetica2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HolaMundoJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HolaMundoJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HolaMundoJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HolaMundoJava/HolaMundoJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/buffers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/build/classes/buffers/Buffers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buffers/src/buffers/Buffers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HolaMundoJava/build/classes/HolaMundo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HolaMundoJava/build/classes/HolaMundo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HolaMundoJava/build/classes/ejercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HolaMundoJava/build/classes/ejercicio10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HolaMundoJava/build/classes/ejercicio11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HolaMundoJava/build/classes/ejercicio11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HolaMundoJava/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HolaMundoJava/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HolaMundoJava/src/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HolaMundoJava/src/HolaMundo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HolaMundoJava/src/ejercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HolaMundoJava/src/ejercicio10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HolaMundoJava/src/ejercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HolaMundoJava/src/ejercicio11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HolaMundoJava/src/ejercicio11/ejercicio11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HolaMundoJava/src/ejercicio12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HolaMundoJava/src/snipplets.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ilxyfFLpIoEbCRo3KwVR8rw307" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.StaticCounter">
+    <configuration name="StaticCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operaciones.StaticCounter" />
+      <module name="Aritmetica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operaciones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAritmetica2" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operaciones.TestAritmetica2" />
+      <module name="Aritmetica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operaciones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAritmetica3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operaciones.TestAritmetica3" />
+      <module name="Aritmetica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operaciones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StaticCounter" />
+        <item itemvalue="Application.TestAritmetica3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19f0d298-b4ae-46c9-b25f-fa64a0a54c69" name="Default Changelist" comment="" />
+      <created>1602496236403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602496236403</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1680" y="127" width="800" height="717" key="#Intentions" timestamp="1602510082790">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state x="1680" y="127" width="800" height="717" key="#Intentions/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602510082790" />
+    <state width="1556" height="299" key="GridCell.Tab.-1.bottom" timestamp="1602514566075">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="299" key="GridCell.Tab.-1.bottom/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602514566075" />
+    <state width="1556" height="299" key="GridCell.Tab.-1.center" timestamp="1602514566074">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="299" key="GridCell.Tab.-1.center/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602514566074" />
+    <state width="1556" height="299" key="GridCell.Tab.-1.left" timestamp="1602514566074">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="299" key="GridCell.Tab.-1.left/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602514566074" />
+    <state width="1556" height="299" key="GridCell.Tab.-1.right" timestamp="1602514566075">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="299" key="GridCell.Tab.-1.right/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602514566075" />
+    <state width="1556" height="299" key="GridCell.Tab.0.bottom" timestamp="1602521005754">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="299" key="GridCell.Tab.0.bottom/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602521005754" />
+    <state width="1556" height="299" key="GridCell.Tab.0.center" timestamp="1602521005751">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="299" key="GridCell.Tab.0.center/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602521005751" />
+    <state width="1556" height="299" key="GridCell.Tab.0.left" timestamp="1602521005742">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="299" key="GridCell.Tab.0.left/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602521005742" />
+    <state width="1556" height="299" key="GridCell.Tab.0.right" timestamp="1602521005754">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="299" key="GridCell.Tab.0.right/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602521005754" />
+    <state width="1556" height="299" key="GridCell.Tab.1.bottom" timestamp="1602514562676">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="299" key="GridCell.Tab.1.bottom/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602514562676" />
+    <state width="1556" height="299" key="GridCell.Tab.1.center" timestamp="1602514562675">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="299" key="GridCell.Tab.1.center/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602514562675" />
+    <state width="1556" height="299" key="GridCell.Tab.1.left" timestamp="1602514562674">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="299" key="GridCell.Tab.1.left/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602514562674" />
+    <state width="1556" height="299" key="GridCell.Tab.1.right" timestamp="1602514562675">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state width="1556" height="299" key="GridCell.Tab.1.right/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602514562675" />
+    <state x="1720" y="84" key="new project wizard" timestamp="1602521004268">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state x="1720" y="84" key="new project wizard/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602521004268" />
+    <state x="1745" y="213" key="search.everywhere.popup" timestamp="1602496386801">
+      <screen x="1280" y="23" width="1600" height="877" />
+    </state>
+    <state x="1745" y="213" key="search.everywhere.popup/0.23.1280.745/1280.23.1600.877@1280.23.1600.877" timestamp="1602496386801" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/operaciones/StaticCounter.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/operaciones/StaticCounter.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/operaciones/StaticCounter.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="StaticCounter.count" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
